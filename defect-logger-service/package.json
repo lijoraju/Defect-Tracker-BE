@@ -1,0 +1,17 @@
+{
+  "name": "defect-tracker",
+  "version": "1.0.0",
+  "description": "This is the package for defect tracker BE application.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Lijo Raju",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.639.0",
+    "bluebird": "^3.7.2",
+    "serverless-offline": "^5.12.1",
+    "uuid": "^7.0.2"
+  }
+}
